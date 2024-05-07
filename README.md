@@ -13,6 +13,7 @@
 
  #Get in Touch:
  - You can email me at jerrywk19@gmail.com
+ - Connect on linkedIn  https://www.linkedin.com/in/jerry-kidd-912392291/
 
 
 Thanks for stopping by!
