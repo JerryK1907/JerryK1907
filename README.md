@@ -1,16 +1,18 @@
-### Hi there 👋
+ #Hi, I'm Jerry Kidd! 
+ - I am a passionate computer science student studying at Virginia Tech, driven by a curiosity for learning software development.
 
-<!--
-**JerryK1907/JerryK1907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ #About Me:
+ - I am currently pursuing my bachelors in computer science at Virginia Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ #Currently Exploring:
+ - Learning software development
+ - Using Java language
+
+
+ #Get in Touch:
+ - You can email me at jerrywk19@gmail.com
+
+
+Thanks for stopping by!
